@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Suite">
+	<test thread-count="5" name="Test">
+		<paramters>
+			<parameter name="un" , value="sam"/>
+			<parameter name="pswd" , value="sam123"/>
+		</paramters>
+
+		<classes>
+			<class name="parameters.Gmail" />
+			<class name="parameters.Yahoo" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

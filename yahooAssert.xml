@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite">
+	<test thread-count="15" name="Test">
+		<classes>
+			<class name="TestNgPractice.Yahoo4SoftAssert" />
+			<class name="TestNgPractice.Yahoo1" />
+			<class name="TestNgPractice.Yahoo3HardAssert" />
+			<class name="TestNgPractice.Yahoo5SoftAssert2" />
+			<class name="TestNgPractice.Yahoo2HardAssert" />
+			<class name="throughTextFile.EaxmpleRead" />
+			<class name="throughTextFile.ExampleWrite" />
+			<class name="throughwebtable.webtablerow" />
+			<class name="throughwebtable.webtablecolumn" />
+			<class name="throughwebtable.WebtableToTextFile" />
+			<class name="excelsheet.excelSheet" />
+			<class name="excelsheet.dataProviderExcel" />
+			<class name="excelsheet.RediffDPExcelAssert" />
+			<class name="excelsheet.DPExcelBeforeAfterMethod" />
+			<class name="excelsheet.DPExcelBeforeAfterClass" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
